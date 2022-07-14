@@ -1,0 +1,34 @@
+.headline {
+  font-size: 40px;
+  text-align: center;
+    font-weight: 700;
+    color: blueviolet;
+}
+.name {
+    text-align: right;
+    color:blue;
+    }
+body {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid blue;
+}
+html {
+    color:blueviolet;
+}
+a:link {
+    color: brown;
+}
+a:visited {
+    color:brown;
+}
+.jobs{
+    border: 3px solid blue;
+    background-color:beige;
+    margin: 20px;
+}
+.intro{
+    text-align: center;
+    font-size: 18px;
+}
